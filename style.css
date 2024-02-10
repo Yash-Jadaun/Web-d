@@ -1,0 +1,13 @@
+body{
+   background-color: black;
+    color: white;
+}
+
+
+th{
+    border: solid red;
+}
+
+td{
+    border: 2px solid purple;
+}
